@@ -12,5 +12,6 @@ public class Tralalerito {
 
     public static void main(String[] args) {
         System.out.println("tralala");
+        
     }
 }
